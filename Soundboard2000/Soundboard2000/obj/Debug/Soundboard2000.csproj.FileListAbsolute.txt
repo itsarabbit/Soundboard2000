@@ -1,0 +1,11 @@
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\bin\Debug\Soundboard2000.exe.config
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\obj\Debug\Soundboard2000.csprojResolveAssemblyReference.cache
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\obj\Debug\Soundboard2000.Form1.resources
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\obj\Debug\Soundboard2000.Properties.Resources.resources
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\obj\Debug\Soundboard2000.csproj.GenerateResource.Cache
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\bin\Debug\Soundboard2000.exe
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\bin\Debug\Soundboard2000.pdb
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\bin\Debug\Bass.Net.dll
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\bin\Debug\Bass.Net.xml
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\obj\Debug\Soundboard2000.exe
+E:\Users\MyMan\Desktop\Projects\Soundboard2000\Soundboard2000\Soundboard2000\obj\Debug\Soundboard2000.pdb
